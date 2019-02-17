@@ -1,4 +1,4 @@
-# studinggolang  
+# 学习golang的一些笔记  
 本仓库是学习用代码
 ## 关于环境变量  
 请确保正确设置GOROOT和GOPATH，两者不能相同  
